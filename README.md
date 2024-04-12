@@ -1,1 +1,1 @@
-# This repo is used to as an examaple solution for programming eretsegi problems
+# This repo is used to store examaple solutions for programming eretsegi problems
