@@ -9,5 +9,5 @@ If you find something incorrect or unclear create a
 for this branch
 
 ### Other
-Checkout the other branches for a different solution
+Checkout the other branches for a different solution.\n
 The branches are maintained by different people
