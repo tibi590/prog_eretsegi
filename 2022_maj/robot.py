@@ -1,15 +1,15 @@
-def main():
-    # 1. feladat
+def main() -> None:
+    # 1. problem 
     prompt: str = input("Kerem a robot parancsait: ")
 
-    # 2. feladat
+    # 2. problem
     print_chars(prompt)
 
-    # 3. feladat
+    # 3. problem
     route: str = update_route(prompt)
     print(f"Egy legrovidebb ut parancsszava: {route}")
 
-def print_chars(prompt: str):
+def print_chars(prompt: str) -> None:
     # Initailaze a dictionary for the directions
     chars = {
         "E": 0,
