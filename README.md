@@ -18,6 +18,6 @@ The branches are maintained by different people
 def function(param: list[str]) -> str:
 ```
 Just to clarify the `: list[str]` and `-> str` parts do not have to be there.
-These are called type annotations and I only write them in the code 
+These are called [type annotations](https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html) and I only write them in the code 
 so that people can anticipate or better understand the behaviour of the program.
 These type annotations are NOT needed in python but they can be useful.
