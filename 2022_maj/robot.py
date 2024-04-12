@@ -10,7 +10,7 @@ def main() -> None:
     print(f"Egy legrovidebb ut parancsszava: {route}")
 
 def print_chars(prompt: str) -> None:
-    # Initailaze a dictionary for the directions
+    # Initialize a dictionary for the directions
     chars = {
         "E": 0,
         "D": 0,
@@ -28,7 +28,7 @@ def print_chars(prompt: str) -> None:
         print(f"{key} betuk szama: {chars[key]}")
 
 def update_route(prompt: str) -> str:
-    # Initailaze a dictionary for the final position 
+    # Initialize a dictionary for the final position 
     coordinate: dict = {
         "x": 0,
         "y": 0
@@ -46,7 +46,7 @@ def update_route(prompt: str) -> str:
             case "N":
                 coordinate["x"] -= 1;
 
-    # Initailaze a string for the new route 
+    # Initialize a string for the new route 
     route: str = ""
 
     # Calculate the new route based on the final position
