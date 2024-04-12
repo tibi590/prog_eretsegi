@@ -8,7 +8,7 @@ def main() -> None:
     num_of_throws: int = int(input("Hany alkalommal legyen feldobas? "))
 
     # Initialize a dictionary for the number of wins per person.
-    wins: dict = {
+    wins: dict[str, int] = {
         'Anni': 0,
         'Panni': 0
     }
@@ -38,9 +38,9 @@ def main() -> None:
 
 def throw() -> str:
     # Use list comprehension to generate the 3 random numbers between 1 and 6.
-    dice: list = [ randint(1, 6) for _ in range(3) ]
+    dice: list[int] = [ randint(1, 6) for _ in range(3) ]
     # Alternative solution without list comprehension:
-    # dice: list = []
+    # dice: list[int] = []
     #
     # for _ in range(3):
     #     dice.append(randint(1,6))

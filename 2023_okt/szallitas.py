@@ -1,23 +1,23 @@
 def main() -> None:
     # 1. problem
     # Initialize a list for the data specified in the problem.
-    weights: list = [16, 8, 9, 4, 3, 2, 4, 7, 7, 12, 3, 5, 4, 3, 2]
+    weights: list[int] = [16, 8, 9, 4, 3, 2, 4, 7, 7, 12, 3, 5, 4, 3, 2]
 
     # 2. problem
     print("2. feladat")
     print(f"A targyak tomegenek osszege: {sum(weights)} Kg")
 
     # 3. problem
-    boxes: dict = box(weights)
+    boxes: dict[int, int] = box(weights)
     print_boxes(boxes)
 
-def box(weights: list) -> dict:
+def box(weights: list[int]) -> dict[int, int]:
     # Initialize a dictionary for the boxes
     # with an inital value of 0: 0.
-    # boxes: dict = {
+    # boxes: dict[int, int] = {
     #   boxId: weight 
     # }
-    boxes: dict = {0: 0}
+    boxes: dict[int, int] = {0: 0}
 
     # Initialize an int for the boxId counter.
     boxId: int = 0
@@ -25,7 +25,7 @@ def box(weights: list) -> dict:
     # Iterate through the weights.
     for weight in weights:
         # Check if the current box + the current weight
-        # is less than or equal to 20.
+        # is less then or equal to 20.
         # If true the weight gets added to the box and the loop continues.
         if boxes[boxId] + weight <= 20:
             boxes[boxId] += weight
@@ -37,7 +37,7 @@ def box(weights: list) -> dict:
 
     return boxes
 
-def print_boxes(boxes: dict) -> None:
+def print_boxes(boxes: dict[int, int]) -> None:
     print("\n3. feladat")
 
     # Initialize a string for the box weights to use in the print.

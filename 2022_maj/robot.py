@@ -11,7 +11,7 @@ def main() -> None:
 
 def print_chars(prompt: str) -> None:
     # Initialize a dictionary for the directions.
-    chars = {
+    chars: dict[str, int] = {
         'E': 0,
         'D': 0,
         'K': 0,
@@ -29,7 +29,7 @@ def print_chars(prompt: str) -> None:
 
 def update_route(prompt: str) -> str:
     # Initialize a dictionary for the final position. 
-    coordinate: dict = {
+    coordinate: dict[str, int] = {
         'x': 0,
         'y': 0
     }
