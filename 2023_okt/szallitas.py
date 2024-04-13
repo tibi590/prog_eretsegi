@@ -8,44 +8,42 @@ def main() -> None:
     print(f"A targyak tomegenek osszege: {sum(weights)} Kg")
 
     # 3. problem
-    boxes: dict[int, int] = box(weights)
+    boxes: list[int] = box(weights)
     print_boxes(boxes)
 
-def box(weights: list[int]) -> dict[int, int]:
-    # Initialize a dictionary for the boxes
-    # with an inital value of 0: 0.
-    # boxes: dict[int, int] = {
-    #   boxId: weight 
-    # }
-    boxes: dict[int, int] = {0: 0}
+def box(weights: list[int]) -> list[int]:
+    # Initialize a list containing integers for the boxes
+    # with an initial value of 0 (The weight of the first box).
 
-    # Initialize an int for the boxId counter.
-    boxId: int = 0
+    # Note: In the boxes list every element represents
+    # a new box and the element's value represents it's weight.
+    # Here I create the first box with an initial weight of 0.
+    boxes: list[int] = [0]
 
-    # Iterate through the weights.
+    # Iterate through the weights
     for weight in weights:
-        # Check if the current box + the current weight
-        # is less then or equal to 20.
-        # If true the weight gets added to the box and the loop continues.
-        if boxes[boxId] + weight <= 20:
-            boxes[boxId] += weight
+        # Check if the current box plus the current weight
+        # is less than or equal to 20.
+        if boxes[-1] + weight <= 20:
+            # If true then add the current weight 
+            # to the current box.
+            boxes[-1] += weight
         else:
-            # Else we continue to the next box and 
-            # add the current weight to it.
-            boxId += 1
-            boxes[boxId] = weight
+            # Else create a new box and 
+            # with the current weight.
+            boxes.append(weight)
 
     return boxes
 
-def print_boxes(boxes: dict[int, int]) -> None:
+def print_boxes(boxes: list[int]) -> None:
     print("\n3. feladat")
 
     # Initialize a string for the box weights to use in the print.
     out: str = ""
 
     # Iterate through the boxes and add it's weight to the out string.
-    for key in boxes:
-        out += f"{boxes[key]} "
+    for box in boxes:
+        out += f"{box} "
 
     print(f"A dobozok tartalmanak tomege (kg): {out}")
     # Alternative solution in one line:
