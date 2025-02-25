@@ -1,0 +1,43 @@
+﻿body {}
+
+#tartalom {
+    padding: 2px;
+}
+
+h1,
+h2 {
+    font-family: sans-serif;
+}
+
+h2 {
+    padding: 2px;
+    clear: left;
+}
+
+p {
+    text-align: ;
+}
+
+.bal {
+    float: ;
+}
+
+.kozep {
+    display: block;
+    margin-left: ;
+    margin-right: ;
+}
+
+table,
+th,
+td {
+    border-collapse: collapse;
+}
+
+td {
+    font-size: ;
+}
+
+th {
+    padding: 2px;
+}

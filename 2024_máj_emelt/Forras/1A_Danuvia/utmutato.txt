@@ -1,0 +1,156 @@
+﻿DANUVIA
+125
+köbcentiméteres motorkerékpár
+használati és kezelési utasítás
+Danuvia Szerszámgépgyár
+Budapest XIV., Angol u. 10-20. Tel: 297-310
+!Műszaki leírás
+Motor: Egyhengeres, kétütemű, hurkos (schnürle), lapos dugattyús motor, a sebességváltóval egy blokkba építve. A forgattyústengely golyóscsapágyakkal, a hajtókar görgőscsapággyal csapágyazott.
+Furat és löket	54 mm
+Hengerűrtartalom	123 cm3
+Kompresszióviszony	1:6,5
+Teljesítmény	5,5 LE
+Fordulatszám	4800 ford/perc
+Porlasztó	Egyfúvókás, tűzszabályozós, elzárható levegőszűrővel
+Gyújtóberendezés	Lendkerékmágnes AVF GV4—25/6
+Világítás	6 Volt, 25 Watt
+Fényszóró	130 mm átmérőjű fényszóró 6 V, 25,25 wattos égővel, a kormányra szerelt biluxkapcsolóval, a fényszóróba szerelt kilométerórával
+Jeladó berendezés	Egyenáramú elektromos kürt
+Erőátvitel	A motorblokkban edzett, korrigált fogaskerekekkel, a hátsó kerékre lánchajtással
+Áttételek	Első sebesség 1:23,54, második sebesség 1:11,64, harmadik sebesség 1:7,84
+Sebességkapcsolás	Félautomatikus, lábkapcsolóval a bal oldalon
+Indítás	Berúgóval a bal oldalon
+Váz	Kettős bölcsőváz
+Első villa	Teleszkóp rendszerű hosszú tekercsrugóval
+Hátsó villa	Lengővilla tokozott tekercsrugókkal, 3 állású hidraulikus lökésgátlóval
+Nyereg	Kettős sportnyereg laticel gumival, műbőr bevonattal
+Gumiabroncsok	Elöl-hátul 2,75 x 19"-os levegőnyomás első kerékben: 1,3 atm, hátsó kerékben egy személynél: 1,9 atm, hátsó kerékben két személynél: 2,3 atm
+Hajtólánc	1/2" x 1/4" 96 tag
+Benzintartály	Sport kivitel gumiba ágyazva, kb. 17 liter, ebből tartalék 2 liter. Háromállású, vízzsákos benzincsap
+Szerszámtáska	Kétoldalt a borítólemezben elhelyezve
+Önsúly	Üzemanyag nélkül 95 kg
+Utazósebesség	55—60 km óránként
+A motor végsebessége	85 km/óra
+Üzemanyag-fogyasztás	2,5—3,2 liter/100 km utazási viszonyoktól függően
+Kerék és fék	Cserélhető kerekek, gumiba ágyazott erőátviteli csapokkal. 160 mm átmérőjű teli fékdobok hűtőbordákkal, 40 mm szélességű fékpofákkal, mechanikai működtetéssel
+Keréktávolság	1250 mm
+Összhossz	1980 mm
+Max. szélesség / magasság	730 mm / 1000 mm
+Legalacsonyabb szabad magasság	220 mm
+Nyeregmagasság terheletlenül	770 mm
+!A motorkerékpár helyes használata
+A Danuvia 125 cm3-es motorkerékpár kényelmes utazás biztosítása céljából elöl teleszkopikusan rugózott villával, hátul lengővillával, ballongumival és kettős sportnyereggel van ellátva.
+Közúti forgalomban csak a biztonságos közlekedésnek megfelelő járművel szabad közlekedni, ezért motorunkkal csak abban az esetben induljunk útnak, ha az mind a rendészeti, mind a műszaki előírásoknak teljes mértékben megfelel! A motor beindítása előtt meggyőződünk a sebességváltó üres állásáról, kinyitjuk a benzincsapot és az úszóház fedelén levő úsztatógombot néhányszor lenyomjuk. A slusszkulcs benyomása után a berúgókart erőteljesen lenyomjuk, mire a motor beindul.
+Hidegben a motor beindítását megkönnyíthetjük azáltal, hogy a porlasztó levegőszűrőjét (részben vagy teljesen) mindaddig elzárjuk, amíg motorunk üzemi hőmérsékletre fel nem melegszik. Ha felmelegedett motort zárt szűrővel járatunk, ez a motor leállását vonja maga után.
+Meleg motornál tartózkodjunk az úsztatógomb lenyomásától, mert ez túlszívást eredményez! Túlszívott motort a motor kifúvatásával hozhatunk üzemképes állapotba.
+A kifúvatást a gyertya és a forgattyúteret elzáró csavar — ez a forgattyús tengely alatt a ház alján van elhelyezve — kicsavarása után a berúgókar többszöri erőteljes lenyomásával végezhetjük el.
+A motor beindítása után a nyeregben kényelmesen elhelyezkedve indulunk. A Danuvia 125 cm3-es motorkerékpár indítása a többi motorkerékpár indításával megegyezően a következő módon történik:
+Bal kezünkkel behúzzuk a tengelykapcsoló emeltyűt (kuplungot), bal lábunkkal lenyomjuk a sebességváltókart, ezáltal bekapcsoljuk az első sebességet, majd a tengelykapcsoló emeltyű lassú kiengedése és a gázfogantyú magunk felé csavarása után a motorkerékpár megindul.
+A sebesség növelése ezután a gázadagolással, a fogantyú további csavarása útján történik kb. 10—15 km óránkénti sebesség eléréséig. A sebesség további növelését a második, majd a harmadik sebesség kapcsolása biztosítja. A második, ill. harmadik sebesség kapcsolásakor jobb kezünkkel magunktól ütközésig elcsavarjuk a gázfogantyút, ezzel csaknem egyidőben behúzzuk a tengelykapcsoló-emeltyűt és bal lábunkkal erőteljesen ütközésig felhúzzuk a sebességváltókart. Ezzel a második 30—40 km/óra sebesség elérése után a harmadik sebességet is bekapcsoljuk. Haladás közben a sebesség további változását a gázszabályozó-fogantyú elcsavarásával változtathatjuk. Fékezésnél a gázszabályozó-fogantyút magunktól ütközésig elcsavarjuk (elvesszük a gázt), majd a tengelykapcsoló-emeltyű behúzása után jobb lábunkkal óvatosan rátaposunk a fékpedálra. Fékezésnél használjuk az első kerékre ható kéziféket is!
+A korszerűsítés következményeként a parkírozásnál való biztosítást motorkerékpárjainkon az Elzett Vasárugyár által gyártott kormányzár bevezetésével tettük lehetővé. A kormányzártartót a váz elülső részén, a kormánytok bal oldalán helyeztük el, mely alatt a kormány 37°-os balra fordításával, alsó villafej furatával együttesen biztosítja a kormányzár dugórészének behelyezését.
+!Bejáratás
+Új, illetőleg generáljavított motor bejáratására nagy gondot kell fordítanunk, mert ez a motor teljesítményét és élettartamát nagymértékben befolyásolja. A bejáratást sík úton csak egy személlyel terhelve végezzük! Új motorral elővigyázatosan haladjunk! Bejáratáshoz 1: 15 keveréket használjunk kb. 3000 km útszakasz megtételéig (tehát 1 liter olajat keverjünk 15 liter benzinbe)! Nem előírás szerinti bejáratás esetén a motor túlmelegedése következik be, és a dugattyú megszorulhat a hengerben, ekkor azonnal be kell húznunk a tengelykapcsolót, és pár percre meg kell állnunk és csak a motor lehűlése után folytathatjuk utunkat. Nagyobb mérvű és többszöri megszorulás vagy rendellenesség esetén forduljunk kivizsgálás végett a szervizhez!
+500 km után az első szervizvizsgálatnál a sebességváltóházban levő olajat ki kell cserélni.
+Bejáratásnál 1500 km-ig a következő sebességeket tartsuk be:
+	I. sebesség	15 km/óra
+	II. sebesség	30 km/óra
+	III. sebesség	40 km/óra
+1500—3000 km-ig:
+	I. sebesség	15 km/óra
+	II. sebesség	35 km/óra
+	III. sebesség	50 km/óra
+Üzemanyag keverési aránya 3000 km-től 1 :20
+Bejáratott motornál ajánlható sebességek:
+	I. sebesség	20 km/óra
+	II. sebesség	40 km/óra
+	III. sebesség	60 km/óra
+!Tüzelőanyag és kenés (olajozás)
+A motor tüzelőanyaga benzin és olaj keveréke 15: 1, illetőleg 20:1 keverési arányban. Javasoljuk az Arol 2T jelű olaj használatát. A keverési arány betartása fontos, mert olajban szegény keverék használata a csúszófelületek erős kopását idézi elő, sőt azok berágódásához vezet.
+A benzint és az olajat az előírásnak megfelelően minden esetben a tartályba öntés előtt külön kannában kell összekeverni, és csak szűrőn keresztül szabad a tartályba tölteni. Arol 2T jelű kétütemű olaj használata esetén a keverést nem kell elvégezni. A tüzelőanyagba kevert olaj a motorba jutva kicsapódik, és automatikusan keni a motor belső részeit.
+A sebességváltó fogaskerekeit jó minőségű MM 60 motorolajjal kenjük! Minden 3000—5000 km megtett út után kenőolajat kell cserélni. A sebességváltó-szekrény feltöltéséhez kb. 0,7 liter olaj szükséges. A leeresztést a ház alsó részén elhelyezett furatokon keresztül végezzük! A töltést elvégezhetjük a motorház bal oldali fedelén levő nagy zárócsavaron keresztül.
+A sebességváltó-olaj szintjét (nívóját) a fedél zárócsavarjának kicsavarása után tudjuk ellenőrizni, mert az olajnak a menetes furat alsó szintjéig kell érnie.
+A hátsó lengővillatengelyt 2000 km-enként zsírzópumpával kell utánakenni.
+A kormány golyós támcsapágyait 5000 km-enként kenjük.
+1000 km-enként olajozni kell az első féket, tengelykapcsolót és porlasztót működtető bowdenokat. Az első és hátsó kerekek csapágyainak, valamint a fékemelő kulcstengelynek a zsírozását nem szabad túlzásba vinnünk, mert ez utóbbinál a fékfelületre kerülő zsír a fékek csúszását idézi elő. A lendkerékmágnes megszakítókalapácsának akadálytalan működése érdekében a kenőfilcet legalább félévenként zsírral telíteni kell. A zsírozáshoz Zs-100 minőségű gépzsírt használjunk!
+!Tisztítás és kormozás
+Motorkerékpárunkat tartsuk mindig tisztán! A lakkozott felületekre száradt sarat megnedvesített puha ruhával töröljük le! Az olajos részeket petróleumos ecsettel mossuk tisztára! Vízsugárral történő tisztításnál óvjuk a porlasztót és az elektromos részeket a vízsugártól, mert a gépre sugárban zúduló víz üzemzavart és a rozsda ellen nem védett részek megrozsdásodását idézi elő. Az elektromos részekbe jutott víz zárlatot, illetőleg gyújtási zavarokat okoz.
+Használat közben a henger károsterében a dugattyú felső felületén, a kipufogócsatornában, -csőben és a hangtompító dobban korom rakódik le. Ez a hengerben öngyulladást és a csatornák, valamint a dob eltömődése miatt teljesítménycsökkenést idéz elő. A korom kitisztításáról minden 3000 km után gondoskodni kell. A tisztítás a következő módon történik: a hengerfej leszorító anyáinak lecsavarása után mindkét kezünkkel a hengerfej alá nyúlva lehúzzuk a hengerfejet, majd a hengert. A rárakódott koromréteget nem túl éles szerszámmal eltávolítjuk, vigyázva arra, hogy a felületeket ne sértsük meg. Ugyanígy tisztítjuk meg a dugattyú felső felületét is. A dugattyú palástjára rakódott koromréteget nem szabad letisztítani. Ha a dugattyúgyűrűk kerületüknek nagy részén feketék, akkor azokat ki kell cserélni, mert már rosszul tömítenek. Kicserélés szükséges akkor is, ha a gyűrűvégek közötti légrés 1,00 mm-nél nagyobb. Az új gyűrűk beszerelésénél a végek közötti hézagnak 0,1—0,2 mm-nek kell lennie. A dugattyúgyűrűk mérete Ø 54x2,5 mm.
+A kipufogócső kormozása 6—8000 km-es üzem után válik szükségessé.
+A hengerfej és a henger felhúzódásánál, a kipufogócső felszerelésénél új tömítések szükségesek.
+!Forgattyúház (karter)
+A forgattyús hajtómű, a sebességváltómű, a kapcsoló automata, a tengelykapcsoló és a lendkerékmágnes egy négyrészes könnyűfém házba van beépítve. A forgattyúsház két középső részébe van beágyazva a forgattyústengely és a sebességváltó a kapcsoló automatával. Ez a két középső darab (függetlenül a tengelykapcsolót, lendkereket és a lánckereket borító fedéltől) alkotja a motor törzsét, és külön is össze van csavarozva. A kétütemű motor jó működésének alapfeltétele a tökéletes karterkompresszió. Ennek biztosítása céljából a fedéldarabok között papírtömítést, a forgattyústengely csapjainál rugós tömítőgyűrűt (simmering) alkalmaztunk. A tömítések megsérülése esetén azokat feltétlen ki kell cserélni, mert a sérült tömítés kifújást idéz elő, ami a motorteljesítmény csökkenését vagy teljes üzemképtelenséget von maga után.
+Minthogy a forgattyúsház szétszereléséhez különleges keréklehúzók szükségesek, ezért azt nem ajánlatos házilag elvégezni.
+!Sebességváltó és tengelykapcsoló (kuplung)
+A motor forgásának átvitele a hátsó kerékre a tengelykapcsolón, a sebességváltó különböző fokozatain és a láncon keresztül történik (erőátviteli szervek).
+A sebességváltó arra szolgál, hogy a motor teljesítőképessége — egy fogaskerékpár helyzetváltoztatása révén — mindig kedvezően kihasználható legyen, és ezáltal a menet közben fellépő ellenállások (pl. emelkedők) leküzdhetők legyenek. A sebességváltó a forgattyúsházba van beépítve. Indulástól az utazósebesség eléréséig három fokozaton keresztül biztosítja a zökkenőmentes, sima felgyorsulást. A sebességváltó különböző fokozatainak használatakor a motor és a hátsó kerék közti áttételt változtatjuk meg.
+A tengelykapcsoló rendeltetése, hogy a motor és az erőátviteli szervek (sebességváltó, lánc, hátsó kerék) között gyorsan oldható kapcsolatot létesítsen, és esetenként (indulás, sebességváltás, lassítás, megállás), ha arra szükség van, azt megszüntesse. A tengelykapcsoló lehetővé teszi, hogy a motor forgató ereje a motorkerékpár indításánál fokozatosan az erőátviteli szerveknek átadható és menet közben — ha szükséges — megszüntethető legyen. A tengelykapcsoló a motor bal oldalán levő fedéllel lezárt térben olajfürdőben van elhelyezve. A tengelykapcsoló parafázott és sima tárcsáit nyolc húzórugó szorítja össze a tengelyek kapcsolat állapotában. A tengelykapcsoló-emeltyű behúzásakor (kuplungozás) megszüntetjük a tárcsák egymás közti kapcsolatát. A tengelykapcsoló helyes, csúszásmentes beállítása a bal fedélen levő nagy zárócsavar kicsavarása után az állítócsavar segítségével végezhető el. A tengelykapcsoló-emeltyűt holtjátékkal kell beállítani. A holtjáték az elméleti út ¼-énél több nem lehet.
+A holtjáték beállítása a forgattyúsházban (karter), a hengertőnél elhelyezett állítócsavarral történik.
+!Sebességváltó automata
+A Danuvia 125 cm3-es motorkerékpáron a sebességkapcsolást félautomatikus váltó biztosítja. Az automata a forgattyúsházban a sebességváltóval közös térben van elhelyezve. A sebességek kapcsolását a motor bal oldalán levő kar ütközésig való le- vagy felhúzásával végezzük. Az egyes kapcsolások után a kar visszatér középállásba. A sebességváltót üresjáratba úgy állítjuk, hogy az I., illetőleg a II. sebességről a kart röviden felhúzzuk vagy lenyomjuk.
+!Lánc
+Az erőátviteli szervek legjobban igénybe vett része, ezért annak karbantartására nagy gondot fordítsunk! Minden 1000 km után petróleumba mártott ecsettel mossuk le, majd 70—80°-ra melegített grafitos faggyúban (60 dkg faggyú, 15 dkg grafitpehely) 10 percig mozgatva főzzük! A faggyúból kiemelve felakasztjuk, és a felesleget lefolyatjuk.
+A lánc helyes beállítását gondosan végezzük el, mert a túl feszes lánc rongálja a lánckereket, sok energiát emészt fel, és így a motor teljesítőképessége csökken! A laza lánc verődik és rángatása folytán töréseket idézhet elő.
+A lánc akkor van helyesen beállítva, ha egyik ágát 15—20 mm mélyre ujjunkkal be tudjuk nyomni.
+!Porlasztó
+Az égéshez szükséges üzemanyag a porlasztón keresztül jut a motorba. Szívásnál a porlasztón keresztül áramló levegő apró benzincseppeket ragad magával, amelyek elpárologva, benzingőz alakjában kerülnek a forgattyús térbe.
+A benzinben levő olaj a forgattyús térben lecsapódik, és a futófelületeket keni.
+A keveréklevegő helyes keverési arányát a fúvóka átmérője és a tolattyú szabályozó tűjének állása határozza meg. A porlasztó 80-as fúvókával van ellátva, ezen nem ajánlatos változtatni.
+Melegszik a motor, ha üzemanyagban szegény keveréket kap. Ezen úgy segíthetünk, ha az elzáró tolattyún levő szabályozó tűt egy-két rovátkával feljebb állítjuk.
+A porlasztó állandó benzinszintjét tűszeleppel ellátott úszó biztosítja. Az úszóval vezérelt szelep meghibásodása túlfolyást idéz elő. Megszüntetése végett a szelepet ki kell tisztítani, és ha az úszó lyukas, azt ki kell cserélni (meg kell forrasztani), esetleg a szeleptűt fészkével össze kell csiszolni.
+A légszűrő használat folyamán eltömődik, ezért azt kb. 1000 km-enként olajos petróleumban ki kell mosni.
+!Váz, üzemanyagtartály, nyereg
+A Danuvia 125 cm3-es motorkerékpár váza kettős bölcsőváz. A váz hidegen vont acélcsőből készül, erősített kormánytokkal.
+Az üzemanyagtartály és a kettős sportnyereg felerősítésére közös csavar szolgál. A kétrészes tartály kb. 17 liter üzemanyag befogadására alkalmas. Ez kb. 650 km-es út megtételéhez elegendő.
+!Első teleszkóp
+A Danuvia 125 cm3-es motorkerékpár a kényelmes utazás biztosítása végett teleszkóp rendszerű első villával van felszerelve. A villa legnagyobb lengéshossza 100 mm.
+A villaszárak kiszerelése a kerék, a sárvédő, a fényszóró levétele után a felső zárócsavar, majd a teleszkópburkolat leszerelését követően történhet meg.
+A rugóstagok házi szerelését nem ajánljuk, azok meghibásodása esetén javítás végett forduljunk a szervizhez!
+A kormányok összeszerelésekor ügyeljünk arra, hogy a kormány könnyű elfordíthatósága ellenére is a rögzítő anya erősen legyen meghúzva.
+!Rugóstag hátsó lengővilla
+A motorkerékpár hátsó kereke lengővillás felfüggesztésű. Az alkalmazott szerkezeti kialakítás egy és két személlyel való terhelés esetén is kielégítő rugózást biztosít. A hátsó tengely legnagyobb lengéshossza 65 mm.
+A rugózás lengéscsillapítása végett 70 cm3 OT. 35 lökésgátló olajjal kell a rugóstagokat feltölteni.
+A különböző terhelések minden igényt kielégítő rugózása végett progresszív rugóval ellátott három állású rugóstagokat alkalmazunk. Egy személy esetén alapállásban, két személy esetén a második állásban a (DV-1081)középső állítóhüvely elfordításával, a harmadik állásban pedig még a (DV-1082)felső állítóhüvely elfordításával érjük el a megfelelő rugó-előfeszítést. A rugóstagban levő olaj mennyisége 70 cm3. Az állítóhüvelyek elfordítását a (V-460) hajtóvassal végezzük.
+A rugóstagot a vázhoz, valamint a lengővillához két-két anyával biztosítjuk.
+A két-két anya eltávolítása után a rugóstag leemelhető. A rugóstag szétszerelése nagy óvatossággal történjen, mert a rugó előfeszítése miatt szerelésnél szétugorhat! Célszerű esetleges meghibásodás esetén a szervizhez fordulni.
+!Az első kerék kiszerelése
+A kerék ki- és beszereléséhez a motorkerékpárt állványra állítjuk. Kiemeljük a fékhuzalt, majd a tengelyanyát kulccsal megfogva a szerelőrúd segítségével a tengelyt kicsavarjuk. A tengely kihúzása után a kerék a villákból kiesik.
+A visszaszerelés fordított sorrendben történik. Gondosan figyeljünk a fék beállítására!
+!A hátsó kerék kiszerelése
+A kerék kiszerelése előtt a fékvonórúdon levő állítóanyát eltávolítjuk, majd a fékvonórudat kiemeljük a fékkarból. A tengely fejfuratán keresztüldugott hajtóvassal a tengelyt kicsavarjuk, majd kihúzzuk. Ezek után a kereket a fékfedéllel együtt kivehetjük. A kerék kivétele után a lánckerék a forgórészen marad.
+A visszaszerelés fordított sorrendben történik. Gondosan ügyeljünk a fék beállítására!
+!A fékek beállítása
+A Danuvia 125 cm3-es motorkerékpár fékjei igen hatásosak. A fék helyes beállítására fordítsunk kellő gondot, mert a biztonságos közlekedéshez jól működő fékek szükségesek!
+Az első féket a jobb mellső fedélen levő állítócsavar segítségével állítjuk be úgy, hogy az a kerék könnyű elforgása mellett fékezésnél ne idézhessen elő kerékcsúszást. A fékemeltyűt is — megegyezően a tengelykapcsoló emeltyűjével — holtjátékkal kell beállítani. A holtjáték itt sem lehet nagyobb az emelési út negyedrészénél.
+A hátsó féket a fék vonórúdján levő állítóanyával állítjuk be úgy, hogy a fékpedál 15—20 mm-es holtjátéka után kezdjen fékezni, és erősebb rátaposással terhelt gépnél a hátsó kerék megcsúsztatható legyen.
+A csapágyak túlzott zsírozása miatt a fékdob felmelegedésénél a zsír megolvad és ráfolyik a fékfelületre, és csúszást idéz elő. Ezen a pofák és a dobok gondos megtisztításával segíthetünk. A tisztítást benzinnel végezzük! A fékkulcsokat évenként egyszer Zs-100 zsírral kenjük! Ezt oly módon végezzük, hogy a fékfelületre zsír ne kerüljön!
+!Fényszóró
+A motorkerékpár az éjszakai közlekedés biztonságosabbá tétele céljából 130 mm átmérőjű, cseppformájú fényszóróval van felszerelve.
+A fényszóró parabolatükrében két izzószálú izzó szolgáltatja az országúti és városi világítást, melynek kapcsolását a kormányra szerelt „Bilux"-kapcsoló segítségével eszközölhetjük.
+Ezenkívül a bilux lámpa alatt van elhelyezve az akkumulátorról táplált park izzó, melynek kapcsolása ugyancsak a lámpafej kapcsolójával történik. A fényszóró bekapcsolásával egyidejűleg már a rendszámtábla megvilágítását szolgáló hátsó lámpát is bekapcsoltuk.
+A fényszóró park izzója 6 V 1.5 W 2676 típ. számú.
+A fényszóró bilux izzója 6 V 25/25 W 1514 típ. számú.
+A hátsó lámpa két izzóval van ellátva abból a célból, hogy a fékezés alkalmával egy stopkapcsolón keresztül narancssárga színű fényjelzéssel jelezzük fékezésünket a közlekedésben. Ez a stopizzó 6 V 5 W 2615 típ. számú.
+A rendszámtábla és a macskaszem megvilágítását pedig 6V 3W 7537 típ. számú szoffita izzó látja el.
+!Gyújtó-világító berendezés
+A motorkerékpár elektromos áramszolgáltatását (6 V) 25 W teljesítményű váltóáramú (generátor) dinamó szolgáltatja. A generátor az állórészből és lendkerékmágnesből áll. Az állórészen nyer elhelyezést a gyújtó, világító és töltő tekercs az áramsűrítő (kondenzátor) és a megszakító kalapács a wolfram érintkező csavarokkal.
+A lendkerék a mágnes szegmenseket magában foglaló lendítő koszorúból és a forgás közben automatikusan vezérlő bütykös agyból áll.
+A gyújtásnak a sűrítési ütem alatt a felső holtpont előtt kell megtörténnie.
+A generátor által fejlesztett elektromosság kábeleken keresztül jut el az izzókig, illetőleg a gyertyáig.
+A Danuvia 125 cm3-es motorkerékpárhoz használható legalkalmasabb gyertya a 14-175. Szikraköz 0,5 mm.
+!Gyújtásbeállítás
+Használat folyamán a megszakító kalapácson levő wolfram érintkezők elfogynak, ennek következtében a gyújtás elállítódik. A helyes beállítás a következő:
+Leszereljük a mágnesvédő fedelet, valamint a hengerfejet, a dugattyút felső holtpontra állítjuk. Ezután a lendkereket a jelölt forgásiránnyal ellentétes irányba fordítva a megszakításnak, illetőleg a kalapácsok nyitáskezdetének a dugattyú 3,6—3,8 mm-es süllyedése után kell megtörténnie. Nyitott kalapácsoknál a wolfram érintkezők között 0,35—0,45 mm-nek kell lennie a hézagnak.
+A felső holtpont a lendkerék előre-, majd hátraforgatásával könnyen megkereshető. A pontos megszakítást egy csavarhúzó segítségével az alaplemez megfelelő elcsúsztatásával állítjuk be.
+!A gumiabroncs karbantartása és szerelése
+A motorkerékpár drótbetétes gumiabroncsainak mérete 2,75 × 19". Az abroncsok felfújásánál figyeljünk arra, hogy az első kerék nyomása 1,3 légkör, a hátsó kerék abroncsa 1,9 (két személynél 2,3) légkör nyomáson legyen! Mind az alacsony, mind a magas nyomás az abroncsok idő előtti elhasználódásához vezet.
+Óvjuk gumiabroncsainkat a túlzott melegtől, olajtól és benzintől, mert ezek is ellenségei a guminak.
+Az abroncsokat a kerekek kiszerelése után szerelővasak segítségével szereljük.
+A leeresztett abroncsot a földre fektetjük, lábunkkal ellentétes oldalon — a szelepnél — a drótbetét alá nyúlva a köpenyt kiemeljük. A kiemelést 6—8 cm-es lépésekkel kezdjük meg, mindkét szerelővasat használva. Óvakodjunk a perem túlzott feszítésétől, mert az a drótbetét elszakadásához vezethet, ami az abroncs tönkretételét jelenti.
+A zárósapka és a szelepanya lecsavarása után a tömlő kiemelhető.
+A tömlőt a következő módon szereljük vissza:
+A gyengén felfújt tömlőt behelyezzük a köpenybe, majd a tömlőszelepet átdugjuk az abroncs szelepfuratán, és egy-két csavarással ráhajtjuk a szelepanyát.
+A köpeny alsó peremét — amely már az abroncs mélyágyában a szelepnél elhelyezkedett — szerelővasunkkal több apró fogással átemeljük az abroncs peremén. A felső perem átemelését a szeleppel szemközti helyről kiindulva kezdjük meg. A munkát fakalapáccsal vagy lábbal való betaposással végezzük el! A szerelővas tömlőkicsípést és peremrongálódást idéz elő, ezért annak használatát mellőzzük! Az utolsó kalapácsütésekkel a szelepnél fejezzük be a munkát! Az abroncs felfújása közben a köpeny jó elhelyezkedése végett többször ütögessük a földhöz az abroncsot!
+A motorkerékpár alkatrészeit feltüntető táblákban szereplő golyóscsapágyak gazdálkodás alá vont cikkek, beszerezhetők a KERAVILL-nál.
+A Simmering gyűrűket, belső és külső rögzítőgyűrűket (seeger gyűrűk) forgalomba hozza az Autó- és Alkatrészkereskedelmi Vállalat.
+A szabványos csavart, anya rugósalátétet és sasszegeket forgalomba hozzák a vas- és edényboltok.
+A csillaggal megjelölt alkatrészek nem képezik kereskedelmi forgalom tárgyát.
