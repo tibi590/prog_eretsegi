@@ -23,6 +23,21 @@ class App:
         lunches = self.getLunches()
         print(f"A menzan aznap {lunches} tanulo ebedelt.")
 
+        # task 5
+        library_students:list = self.getStudentsInLibrary()
+        print(f"Aznap {len(library_students)} tanulo kolcsonzott a konyvtarban.")
+        if len(library_students) > lunches:
+            print("Tobben voltak, mint a menzan.")
+        else:
+            print("Nem voltak tobben, mint a menzan.")
+
+        # task 6
+        slackers:list = self.getSlackers()
+        print(f"Az erintett tanulok: ")
+        for slacker in slackers:
+            print(slacker.id, end=" ")
+
+    # task 1
     def readData(self) -> None:
         with open(self.read_src, "r", encoding="utf-8") as file:
             self.data = [line.rstrip("\n") for line in file]
@@ -68,6 +83,15 @@ class App:
                     break
         return lunches
 
+    # task 5
+    def getStudentsInLibrary(self) -> list:
+        return [student for student in self.students.values() if student.beenInLibrary()]
+
+    # task 6
+    def getSlackers(self) -> list:
+        return [student for student in self.students.values() if student.isSlacker()]
+
+
 class Record:
     def __init__(self, time:str, action:int) -> None:
         self.time = time
@@ -93,6 +117,24 @@ class Student:
     def addRecord(self, time:str, action:int) -> None:
         record:Record = Record(time=time, action=action)
         self.records.append(record)
+
+    def beenInLibrary(self) -> bool:
+        for record in self.records:
+            if record.action == 4:
+                return True
+        return False
+
+    def actionCounter(self, action:int) -> int:
+        counter:int = 0
+        for record in self.records:
+            if record.action == action:
+                counter += 1
+        return counter
+
+    def isSlacker(self) -> bool:
+        if self.actionCounter(1) > self.actionCounter(2):
+            return True
+        return False
 
 if __name__ == "__main__":
     app = App()
